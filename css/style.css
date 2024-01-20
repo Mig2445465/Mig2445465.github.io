@@ -1,0 +1,33 @@
+h1{
+  text-align: center;
+  color: whitesmoke;
+}
+.caixanuncio{
+  background-color: #111;
+  border-radius: 4px;
+  color: #b2b2b2;
+  padding: 25px 30px;
+  margin: 15px 50px;
+}
+button{
+  background-color: #febe01;
+  border-radius: 8px;
+  padding: 8px;
+}
+span{
+  color: #febe01;
+}
+h2 {
+  color:#b2b2b2;
+}
+body{
+  background-color: grey;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.corveiculos{
+  color: white;
+}
+a{
+  color: #320;
+  text-decoration: none;
+}

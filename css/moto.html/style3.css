@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(39, 39, 39);
+  }
+  h1{
+    color: whitesmoke;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+  .caixamoto{
+    background-color: #111;
+    border-radius: 20px;
+    color: #b2b2b2;
+    padding: 25px 30px;
+    margin: 15px 50px;
+  }
+  button{
+    background-color: #febe01;
+    border-radius: 8px;
+    padding: 8px;
+  }
+  .corveiculos2{
+    color: white;
+  }
+  span{
+    color: #febe01;
+    font-family: "Cabin", sans-serif;
+    text-transform: uppercase;
+  }
+  a{
+    text-decoration: none;
+    color: #320;
+  }
